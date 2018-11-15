@@ -4,4 +4,4 @@ This repository contains a notebook that will teach you how to train a [mobilene
 
 ![Class Examples](images/class_examples.jpg)
 
-Start this project in Azure Notebooks by clicking on this badge: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks-staging.azure.com/import/gh/jflam/connect-demo)
+Start this project in Azure Notebooks by clicking on this badge: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://antkipnb.azureml-test.net/import/gh/jflam/connect-demo)
